@@ -10,8 +10,8 @@ import { client } from "./midlewares/uptashRedis"
 
 const toUrl = 'https://vidsrc-bc567b0e907e.herokuapp.com/'
 const meUrl = 'https://moviekexonline-29aedc6d6588.herokuapp.com/'
-// const nodeProxy = 'https://nodeproxy-1a962f2c7198.herokuapp.com/'
-const nodeProxy = 'https://first-app.vidsrcproxy.workers.dev/'
+const nodeProxy = 'https://nodeproxy-1a962f2c7198.herokuapp.com/'
+// const nodeProxy = 'https://first-app.vidsrcproxy.workers.dev/'
 const vidsrcmeProxy = 'https://proxy-vidsrc-me-0e71f022c893.herokuapp.com/fetch?url='
 // const vidsrc_working:boolean = true
 
